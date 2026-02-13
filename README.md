@@ -12,7 +12,15 @@ Me motiva el **aprendizaje continuo** y disfruto asumiendo nuevos retos. Afirmo 
 
 Apasionada por **viajar, conocer diferentes culturas** y vivir nuevas experiencias. Creo que cada oportunidad, tanto profesional como personal, es una forma de **crecer y ampliar horizontes**.
 
+---
 
+## ⚽ Me encanta el deporte
+
+Soy una persona activa que disfruta del deporte como forma de vida. Creo que el deporte no solo mantiene el cuerpo sano, sino que también enseña valores fundamentales como el **trabajo en equipo, la disciplina y la resiliencia**.
+
+Actualmente formo parte del **equipo de fútbol sala** de la Universidad de Salamanca, donde aplico estos valores tanto en la cancha como en mis proyectos profesionales.
+
+---
 
 ## 💼 Voluntariados
 
@@ -29,7 +37,6 @@ Participación en acelerador de startups
 Voluntariado internacional en programa de solidaridad europea
 
 ---
-
 
 ## 🗣️ Idiomas
 
@@ -51,22 +58,17 @@ Voluntariado internacional en programa de solidaridad europea
 
 ---
 
-
-
 ## 🔗 Conecta conmigo
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvillac04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lidia-villarreal-castán-939092249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidia-villarreal-castán-939092249)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lidiavillarreal)
-
 
 </div>
 
 ---
-
-
 
 ## 🌱 Próximos objetivos
 
