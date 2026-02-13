@@ -12,46 +12,6 @@ Me motiva el **aprendizaje continuo** y disfruto asumiendo nuevos retos. Afirmo 
 
 Apasionada por **viajar, conocer diferentes culturas** y vivir nuevas experiencias. Creo que cada oportunidad, tanto profesional como personal, es una forma de **crecer y ampliar horizontes**.
 
----
-
-## 💡 Proyectos Destacados
-
-### 🎮 [Cifras y Letras - Sistema Multiagente](https://github.com/lidiavillarreal/cifras-y-letras)
-**Sistema distribuido con JADE Framework**
-- Implementación del juego televisivo "Cifras y Letras" usando agentes
-- 3 tipos de agentes: Aitor (presentador), ExpertoDavid (coordinador), Jugadores (automáticos/manuales)
-- Algoritmos de búsqueda recursiva y resolución automática de problemas matemáticos
-- 4 niveles de dificultad (Experto, Intermedio, Principiante, Aleatorio)
-- Comunicación inter-agentes mediante ACL (Agent Communication Language)
-
-**Tecnologías**: Java, JADE, ACL Messages, Algoritmos de búsqueda recursiva
-
----
-
-## 🛠️ Habilidades Técnicas
-
-### Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Ada](https://img.shields.io/badge/Ada-5E2D84?style=for-the-badge&logo=ada&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Herramientas
-![JADE](https://img.shields.io/badge/JADE_Framework-4285F4?style=for-the-badge)
-![Socket_API](https://img.shields.io/badge/Socket_APIs-FF6B6B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-### Especialidades
-- 🔄 **Programación Concurrente** (Ada, Java)
-- 🌐 **Sistemas Distribuidos** (Sockets TCP/UDP, Agentes)
-- 🤖 **Sistemas Multiagente** (JADE, comunicación inter-agentes)
-- 📊 **Análisis y Algoritmos** (Búsqueda recursiva, optimización)
-- 💼 **Gestión empresarial** (ADE)
-
----
 
 
 ## 💼 Voluntariados
@@ -98,7 +58,7 @@ Voluntariado internacional en programa de solidaridad europea
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvillac04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidiavillarreal-939092249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lidia-villarreal-castán-939092249)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lidiavillarreal)
 
 
