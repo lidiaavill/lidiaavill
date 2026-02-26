@@ -6,7 +6,7 @@
 
 ## 🎯 Sobre mí
 
-Soy una persona **trabajadora, abierta y sociable** actualmente cursando el cuarto año de mi doble grado en Ingeniería Informática y Administración y Dirección de Empresas en la Universidad de Salamanca.
+Soy una persona **trabajadora, abierta y sociable** actualmente cursando el cuarto año del doble grado en Ingeniería Informática y Administración y Dirección de Empresas en la Universidad de Salamanca.
 
 Me motiva el **aprendizaje continuo** y disfruto asumiendo nuevos retos. Afirmo cada proyecto con **dedicación y compromiso**, siempre buscando aportar valor y generar un impacto positivo.
 
@@ -30,11 +30,11 @@ Departamento de IT y Marketing
 
 ### 🚀 **Startup Olé Accelerator**
 **Salamanca** • 2024 - 2025  
-Participación en acelerador de startups
+
 
 ### 🌍 **European Solidarity Corps**
 **Eslovenia** • 2025 - Junio  
-Voluntariado internacional en programa de solidaridad europea
+
 
 ---
 
@@ -69,15 +69,7 @@ Voluntariado internacional en programa de solidaridad europea
 
 </div>
 
----
 
-## 🌱 Próximos objetivos
-
-- 🌍 Experiencias internacionales en desarrollo de software
-- 💼 Combinar habilidades técnicas con visión empresarial del doble grado
-- 🚀 Seguir formándome y explorar nuevas áreas
-
----
 
 <div align="center">
 
